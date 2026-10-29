@@ -26,6 +26,11 @@ quote(theme = "learning", n = 2)
 
 Themes: `"perseverance"`, `"learning"`, `"courage"`, `"action"`
 
+## Contributors
+
+- [MikkelAlnor](https://github.com/MikkelAlnor) — maintainer
+- [GLM (Z.ai)](https://github.com/zai-org) — AI assistant, code contributions
+
 ## Development
 
 See `WORKFLOW.md` for the devtools-based development workflow, or run
