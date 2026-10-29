@@ -26,24 +26,6 @@ quote(theme = "learning", n = 2)
 
 Themes: `"perseverance"`, `"learning"`, `"courage"`, `"action"`
 
-## Package Structure
-
-```mermaid
-flowchart LR
-    subgraph RAlnor["📦 RAlnor v0.2.0"]
-        direction LR
-        subgraph Exported["Exported functions"]
-            hello["hello_ralnor(name)"]
-            quote["quote(theme, n)"]
-        end
-        subgraph Internal["Internal data"]
-            db[("quotes_db<br/>13 quotes · 4 themes")]
-        end
-    end
-    quote -- "samples from" --> db
-    hello -. "placeholder pattern" .-> quote
-```
-
 ### Function reference
 
 | Function | Signature | Description | Returns |
