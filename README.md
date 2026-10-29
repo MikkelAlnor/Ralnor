@@ -8,7 +8,7 @@ You can install the development version from GitHub with:
 
 ```r
 # install.packages("remotes")
-remotes::install_github("Mialn20/Ralnor")
+remotes::install_github("MikkelAlnor/Ralnor")
 ```
 
 ## Example
