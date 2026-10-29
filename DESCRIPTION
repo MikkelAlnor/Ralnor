@@ -1,7 +1,7 @@
 Package: RAlnor
 Type: Package
 Title: What the Package Does (One Line, Title Case)
-Version: 0.1.0
+Version: 0.2.0
 Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
 Description: One paragraph description of what the package does as one
     or more full sentences.
