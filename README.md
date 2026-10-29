@@ -17,7 +17,14 @@ remotes::install_github("MikkelAlnor/Ralnor")
 library(RAlnor)
 hello_ralnor("world")
 #> [1] "Hello, world!"
+
+quote()
+#> [1] "Fall seven times, stand up eight. - Japanese proverb"
+
+quote(theme = "learning", n = 2)
 ```
+
+Themes: `"perseverance"`, `"learning"`, `"courage"`, `"action"`
 
 ## Development
 
