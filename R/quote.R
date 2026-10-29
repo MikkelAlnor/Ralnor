@@ -1,4 +1,4 @@
-#' quote: get an inspirational quote
+#' get_quote: get an inspirational quote
 #'
 #' Returns a random inspirational quote. Optionally filtered by theme.
 #'
@@ -9,10 +9,10 @@
 #' @return A character vector of quotes.
 #' @export
 #' @examples
-#' quote()
-#' quote(theme = "perseverance")
-#' quote(n = 3)
-quote <- function(theme = NULL, n = 1) {
+#' get_quote()
+#' get_quote(theme = "perseverance")
+#' get_quote(n = 3)
+get_quote <- function(theme = NULL, n = 1) {
   themes <- c("perseverance", "learning", "courage", "action")
 
   if (!is.null(theme)) {
