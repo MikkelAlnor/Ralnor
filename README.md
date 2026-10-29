@@ -28,8 +28,14 @@ Themes: `"perseverance"`, `"learning"`, `"courage"`, `"action"`
 
 ## Contributors
 
-- [MikkelAlnor](https://github.com/MikkelAlnor) — maintainer
-- [GLM (Z.ai)](https://github.com/zai-org) — AI assistant, code contributions
+Thanks to everyone who has contributed to RAlnor:
+
+| Contributor | Role | Contributions |
+| :--- | :--- | :--- |
+| [![MikkelAlnor](https://img.shields.io/badge/GitHub-MikkelAlnor-blue?logo=github)](https://github.com/MikkelAlnor) | Maintainer | 💻 Code · 📖 Docs · 🔧 Maintenance |
+| ![GLM (Z.ai)](https://img.shields.io/badge/AI-GLM__5.3__Flash-green) | AI Assistant ([Z.ai](https://z.ai)) | 💻 Code (roxygen docs, `quote()` theme system) |
+
+*Badge legend: 💻 code · 📖 documentation · 🔧 maintenance · 🤖 AI-generated*
 
 ## Development
 
