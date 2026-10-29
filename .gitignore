@@ -1,0 +1,16 @@
+# --- R package ignore files ---
+.Rproj.user
+.Rhistory
+.RData
+.Rproj
+
+# Build artifacts
+/*.tar.gz
+/*.Rcheck/
+src/*.o
+src/*.so
+src/*.dll
+
+# Generated docs
+docs/
+inst/doc
