@@ -1,6 +1,6 @@
 test_that("quote returns n quotes", {
   expect_length(get_quote(), 1)
-  expect_length(quote(n = 3), 3)
+  expect_length(get_quote(n = 3), 3)
 })
 
 test_that("quote filters by theme", {

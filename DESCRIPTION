@@ -14,7 +14,6 @@ Description: One paragraph description of what the package does as one
 License: MIT + file LICENSE
 Encoding: UTF-8
 Maintainer: Mikkel Alnor <MikkelAlnor@users.noreply.github.com>
-Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 Suggests:
     testthat (>= 3.0.0)
